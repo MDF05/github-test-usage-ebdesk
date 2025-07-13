@@ -1,2 +1,3 @@
 ini adalah baris pertama
 inii adalah baris kedua
+ini update dari resolve merge conflict
